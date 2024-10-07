@@ -8,13 +8,13 @@
 
 <br/>
 
-- Developing **scalable frontend and backend applications** using **Angular**, **ReactJs**, **NodeJs**, **ExpressJs**, **Firebase** and **MongoDB**.
+- Developing **scalable frontend and backend applications** using **ReactJs**, **NodeJs**, **ExpressJs** and **MongoDB**.
 - Open to **collaboration** on **open-source projects**.
-
+- 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,angular,react,firebase,nodejs,express,mongodb,git,github,vscode,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,git,github,vscode,postman" alt="Tech Stack" />
 </div>
 
 <br/>
