@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,firebase,nodejs,express,mongodb,git,github,vscode,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,vscode,postman" alt="Tech Stack" />
 </div>
 
 <br/>
