@@ -2,7 +2,7 @@
 
 # Aaftab Ansari Here! 👋
 
-**Full-Stack Developer with a Love for Learning**
+**Front End Developer with a Love for Learning**
 
 </div>
 
