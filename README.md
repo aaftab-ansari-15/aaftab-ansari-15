@@ -10,7 +10,7 @@
 
 - Developing **scalable frontend and backend applications** using **ReactJs**, **NodeJs**, **ExpressJs** and **MongoDB**.
 - Open to **collaboration** on **open-source projects**.
-- 
+   
 <br/>
 
 <div align="center">
