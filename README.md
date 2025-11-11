@@ -6,11 +6,18 @@
 <div align="center">
 
 <h1>Aaftab Ansari</h1>
-<h3>React.js Developer • 2+ Years Experience</h3>
+<h3>React.js Developer • 2+ Years of Experience</h3>
 
-<p>
-  <a href="mailto:aaftabkansari5@gmail.com">aaftabkansari5@gmail.com</a> • 
-  <a href="https://linkedin.com">linkedin.com/in/aaftab-ansari</a>
+<p align="center">
+  <a href="mailto:aaftabkansari5@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="22" style="vertical-align:middle; margin-right:6px;" />
+    aaftabkansari5@gmail.com
+  </a>
+  &nbsp; &nbsp; • &nbsp; &nbsp;
+  <a href="https://linkedin.com/in/aaftab-ansari" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" style="vertical-align:middle; margin-right:6px;" />
+    linkedin.com/in/aaftab-ansari
+  </a>
 </p>
 
 </div>
@@ -19,53 +26,66 @@
 
 <div align="center">
 
-<!-- Animated headline using typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+Performant+and+Scalable+Frontends;Creating+Smooth+UX+with+React+and+Modern+APIs;Passionate+about+Clean+Code+and+Web+Architecture" alt="Animated Developer Banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+Scalable+Frontends+with+React;Designing+Performant+and+Clean+User+Interfaces;Transforming+Ideas+into+Interactive+Experiences" alt="Typing Animation" />
 
 </div>
 
 ---
 
-### Tech Stack
+## 🧠 Tech Stack
 
-#### Frontend
-React.js · Redux · React Query · React Native · JavaScript (ES6+) · HTML5 · CSS3 · Webpack · Babel
+### 🖥️ Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,redux,reactquery,webpack,babel,npm" />
+</p>
 
-#### Styling
-Tailwind CSS · Material UI · Bootstrap · shadcn/ui
+### 🎨 UI / Styling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=materialui,tailwind,bootstrap" />
+  &nbsp;• <b>shadcn/ui</b>
+</p>
 
-#### Backend & APIs
-Node.js · Express.js · FastAPI · Python
+### ⚙️ Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
+</p>
 
-#### Database & Data Handling
-MongoDB · Axios · JSON
+### 🗄️ Database & Data Handling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  &nbsp;• <b>axios</b> &nbsp;• <b>JSON</b>
+</p>
 
-#### Visualization
-React Flow · D3.js · Recharts
+### 📊 Data Visualization & Graph Libraries
+<p align="center">
+  <b>React Flow</b> &nbsp;• <b>Recharts</b> &nbsp;• <b>D3.js</b>
+</p>
 
-#### Tools & Environment
-Git · GitHub · GitLab · VS Code · Postman · Linux · NPM
+### 🧩 Dev Tools & Environment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux" />
+</p>
 
-#### Project Management
-Trello · Jira
+### 🗂️ Project Management
+<p align="center">
+  <b>Trello</b> &nbsp;• <b>Jira</b>
+</p>
 
 ---
 
-### Highlight Project — AI Pipeline Workflow
-- Designed a modular **node abstraction system** for scalable UI creation.  
-- Implemented **auto-handle generation**, **variable linking**, and **real-time edge connections** using React Flow.  
-- Integrated **FastAPI backend** for DAG validation and pipeline analysis.  
-- Result: Seamless workflow visualization with backend graph intelligence.  
+## 🚀 Featured Project — AI Pipeline Workflow
 
-[Project Demo (Loom Video)](https://www.loom.com/share/877b2ce110eb47ec9155eefb20890d49)
+A fully interactive **pipeline builder** built with **React Flow** and **FastAPI**, enabling:
+- Dynamic node creation with real-time handle and edge linking  
+- Text-field variable binding for visual data pipelines  
+- Backend validation for **Directed Acyclic Graph (DAG)** integrity  
+
+🎥 [Project Demo (Loom Video)](https://www.loom.com/share/877b2ce110eb47ec9155eefb20890d49)
 
 ---
 
 <div align="center">
 
-<!-- Subtle fade-in animation using SVG -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.svg" width="100%" height="6" />
-
-<p><i>“Code is design made visible.”</i></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=React.js+%7C+FastAPI+%7C+Full-Stack+Development;Clean+Architecture+and+Modern+UI;Building+for+Scalability+and+Experience" />
 
 </div>
