@@ -41,7 +41,4 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux" />
 </p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=React.js+%7C+FastAPI+%7C+Full-Stack+Development;Clean+Architecture+and+Modern+UI;Building+for+Scalability+and+Experience" />
-
 </div>
