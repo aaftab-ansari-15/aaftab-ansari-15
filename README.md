@@ -32,57 +32,39 @@
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,redux,reactquery,webpack,babel,npm" />
 </p>
 
-### 🎨 UI / Styling
+### UI / Styling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=materialui,tailwind,bootstrap" />
   &nbsp;• <b>shadcn/ui</b>
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
 </p>
 
-### 🗄️ Database & Data Handling
+### Database & Data Handling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" />
   &nbsp;• <b>axios</b> &nbsp;• <b>JSON</b>
 </p>
 
-### 📊 Data Visualization & Graph Libraries
+### Data Visualization & Graph Libraries
 <p align="center">
   <b>React Flow</b> &nbsp;• <b>Recharts</b> &nbsp;• <b>D3.js</b>
 </p>
 
-### 🧩 Dev Tools & Environment
+### Dev Tools & Environment
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux" />
 </p>
-
-### 🗂️ Project Management
-<p align="center">
-  <b>Trello</b> &nbsp;• <b>Jira</b>
-</p>
-
----
-
-## 🚀 Featured Project — AI Pipeline Workflow
-
-A fully interactive **pipeline builder** built with **React Flow** and **FastAPI**, enabling:
-- Dynamic node creation with real-time handle and edge linking  
-- Text-field variable binding for visual data pipelines  
-- Backend validation for **Directed Acyclic Graph (DAG)** integrity  
-
-🎥 [Project Demo (Loom Video)](https://www.loom.com/share/877b2ce110eb47ec9155eefb20890d49)
-
----
 
 <div align="center">
 
