@@ -1,113 +1,71 @@
+<!-- ============================= -->
+<!--        Aaftab Ansari         -->
+<!--   React.js Developer (2+ Y)  -->
+<!-- ============================= -->
+
 <div align="center">
 
-# 👨‍💻 Aaftab Ansari  
-### 🚀 React.js Developer | 2+ Years of Experience  
+<h1>Aaftab Ansari</h1>
+<h3>React.js Developer • 2+ Years Experience</h3>
 
-[![Email Badge](https://img.shields.io/badge/📧_Email-aaftabkansari5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaftabkansari5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaftab_Ansari-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aaftab--ansari--15-181717?style=for-the-badge&logo=github)](https://github.com/aaftab-ansari-15)
+<p>
+  <a href="mailto:aaftabkansari5@gmail.com">aaftabkansari5@gmail.com</a> • 
+  <a href="https://linkedin.com">linkedin.com/in/aaftab-ansari</a>
+</p>
 
 </div>
 
 ---
 
 <div align="center">
-  
-✨ Passionate about crafting **modern, scalable, and elegant web experiences** using  
-**React.js, FastAPI, Node.js, and intuitive UI/UX principles.**  
+
+<!-- Animated headline using typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+Performant+and+Scalable+Frontends;Creating+Smooth+UX+with+React+and+Modern+APIs;Passionate+about+Clean+Code+and+Web+Architecture" alt="Animated Developer Banner" />
+
 </div>
 
 ---
 
-## ⚡ About Me
+### Tech Stack
 
-💡 Frontend-focused developer building **interactive workflows**, **AI-driven dashboards**, and **real-time visual systems**.  
-🌱 Always learning and experimenting with new technologies — from **state management patterns** to **AI integrations**.  
-🤝 Open to collaborations, hackathons, and creative projects that push tech boundaries.  
-📈 Currently exploring **Next.js**, **GraphQL**, and **React Native** for mobile-driven experiences.  
+#### Frontend
+React.js · Redux · React Query · React Native · JavaScript (ES6+) · HTML5 · CSS3 · Webpack · Babel
 
----
+#### Styling
+Tailwind CSS · Material UI · Bootstrap · shadcn/ui
 
-## 🧠 Tech Stack
+#### Backend & APIs
+Node.js · Express.js · FastAPI · Python
 
-### 🖥️ Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,redux,reactquery,webpack,babel,npm" />
-</p>
+#### Database & Data Handling
+MongoDB · Axios · JSON
 
-### 🎨 UI / Styling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=materialui,tailwind,bootstrap" />
-  &nbsp;• <b>shadcn/ui</b>
-</p>
+#### Visualization
+React Flow · D3.js · Recharts
 
-### ⚙️ Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
-</p>
+#### Tools & Environment
+Git · GitHub · GitLab · VS Code · Postman · Linux · NPM
 
-### 🗄️ Database & Data Handling
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  &nbsp;• <b>axios</b> &nbsp;• <b>JSON</b>
-</p>
-
-### 📊 Data Visualization & Graph Libraries
-<p align="center">
-  <b>React Flow</b> &nbsp;• <b>Recharts</b> &nbsp;• <b>D3.js</b>
-</p>
-
-### 🧩 Dev Tools & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux" />
-</p>
-
-### 🗂️ Project Management
-<p align="center">
-  <b>Trello</b> &nbsp;• <b>Jira</b>
-</p>
+#### Project Management
+Trello · Jira
 
 ---
 
-## 🚀 Featured Project – AI Pipeline Workflow
-🎯 **Built an interactive visual pipeline system** using **React Flow**, allowing dynamic edge creation, node abstraction, and backend DAG validation.  
-🧩 **Frontend:** React.js, Zustand, Tailwind, React Flow  
-⚙️ **Backend:** FastAPI (Python)  
-🧠 **Features:** Variable-based node linking, auto-handle generation, live graph updates, DAG validation  
-🎥 [Project Demo (Loom Video)](https://www.loom.com/share/877b2ce110eb47ec9155eefb20890d49)
+### Highlight Project — AI Pipeline Workflow
+- Designed a modular **node abstraction system** for scalable UI creation.  
+- Implemented **auto-handle generation**, **variable linking**, and **real-time edge connections** using React Flow.  
+- Integrated **FastAPI backend** for DAG validation and pipeline analysis.  
+- Result: Seamless workflow visualization with backend graph intelligence.  
 
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaftab-ansari-15&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab-ansari-15&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
-## 🌀 Fun Interactive Banner
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=React+Developer+%7C+UI+Engineer;2%2B+Years+of+Experience;Building+Scalable+Frontends;Lifelong+Learner+%26+Problem+Solver" alt="Typing Animation" />
-</p>
-
----
-
-## 🧭 Let’s Connect!
-
-<p align="center">
-  <a href="mailto:aaftabkansari5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/aaftab-ansari-15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+[Project Demo (Loom Video)](https://www.loom.com/share/877b2ce110eb47ec9155eefb20890d49)
 
 ---
 
 <div align="center">
 
-### ✨ “Code with logic, style with purpose, and ship with confidence.”  
-**– Aaftab Ansari**
+<!-- Subtle fade-in animation using SVG -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.svg" width="100%" height="6" />
+
+<p><i>“Code is design made visible.”</i></p>
 
 </div>
