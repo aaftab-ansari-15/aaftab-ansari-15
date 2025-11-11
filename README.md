@@ -36,7 +36,7 @@
 
 ### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,redux,reactquery,webpack,babel,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,webpack,babel,npm" />
 </p>
 
 ### UI / Styling
@@ -53,12 +53,6 @@
 ### Database & Data Handling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" />
-  &nbsp;• <b>axios</b> &nbsp;• <b>JSON</b>
-</p>
-
-### Data Visualization & Graph Libraries
-<p align="center">
-  <b>React Flow</b> &nbsp;• <b>Recharts</b> &nbsp;• <b>D3.js</b>
 </p>
 
 ### Dev Tools & Environment
