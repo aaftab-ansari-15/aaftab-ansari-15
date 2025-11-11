@@ -42,7 +42,6 @@
 ### UI / Styling
 <p align="center">
   <img src="https://skillicons.dev/icons?i=materialui,tailwind,bootstrap" />
-  &nbsp;• <b>shadcn/ui</b>
 </p>
 
 ### Backend & APIs
