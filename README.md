@@ -36,9 +36,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,webpack,babel,npm" />
-  <img src="https://skillicons.dev/icons?i=mongodb,sql" />
   <img src="https://skillicons.dev/icons?i=materialui,tailwind,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" />
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,linux" />
 </p>
 </div>
